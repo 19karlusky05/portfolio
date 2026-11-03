@@ -19,7 +19,7 @@ function MyWebsites() {
     },
     {
         title: "Project Three",
-        image: "/images/website-3.jpg",
+        image: "/images/website-3.png",
         description: "This was my final project of my HND.",
         link: "https://example.com",
     },
