@@ -12,19 +12,19 @@ function MyWebsites() {
         link: null,
     },
     {
-        title: "Project Two",
+        title: "Project Two: Wedding Invitation Website",
         image: "/images/website-2.png",
         description: "I created a website like an invitation for my wedding.",
         link: "https://ourwedding-kl.netlify.app/",
     },
     {
-        title: "Project Three",
+        title: "Project Three: E-commerce Website",
         image: "/images/website-3.png",
         description: "This was my final project of my HND using PHP, JavaScript, and MySQL.",
         link: "https://github.com/19karlusky05/websites-with-php/tree/main/Angelyn-Confecciones",
     },
     {
-        title: "Project Four",
+        title: "Project Four: Cinema Website",
         image: "/images/website-4.png",
         description: "A college project of my HND using PHP, JavaScript, and MySQL.",
         link: "https://github.com/19karlusky05/websites-with-php/tree/main/LimeLightCinema",
