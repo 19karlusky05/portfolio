@@ -20,14 +20,14 @@ function MyWebsites() {
     {
         title: "Project Three",
         image: "/images/website-3.png",
-        description: "This was my final project of my HND.",
-        link: "https://example.com",
+        description: "This was my final project of my HND using PHP, JavaScript, and MySQL.",
+        link: "https://github.com/19karlusky05/websites-with-php/tree/main/Angelyn-Confecciones",
     },
     {
         title: "Project Four",
         image: "/images/website-4.png",
-        description: "A college project of my HND.",
-        link: "https://example.com",
+        description: "A college project of my HND using PHP, JavaScript, and MySQL.",
+        link: "https://github.com/19karlusky05/websites-with-php/tree/main/LimeLightCinema",
     },
   ];
 
